@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">I'm starting Data Analyst/Python Dev from Poland.</h3>
+<h3 align="center">I'm beginning Data Analyst/Python Dev from Poland.</h3>
 
 - 🔭 I’m currently working on **Expanding my programming skills**
 
