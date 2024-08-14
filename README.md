@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying at **https://wscs.eu/**
 
-- 🤝 I’m looking for my first job in **IT industry**
+- 🤝 I’m looking for new experiences **IT industry**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WiktorTobota?tab=repositories](https://github.com/WiktorTobota?tab=repositories)
 
